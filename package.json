@@ -1,0 +1,12 @@
+{
+  "name": "7cWebsite",
+  "version": "1.0.0",
+  "description": "Seven Concepts Landing Page",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build required'"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
